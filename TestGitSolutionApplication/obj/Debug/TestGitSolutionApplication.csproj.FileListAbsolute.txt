@@ -1,0 +1,2 @@
+D:\Workspace\Visual Studio 2013\Projects\TestGitSolution\TestGitSolutionApplication\bin\Debug\TestGitSolutionApplication.exe.config
+D:\GitTest\ly281400407\asap-git-test1\TestGitSolutionApplication\bin\Debug\TestGitSolutionApplication.exe.config
